@@ -4,6 +4,6 @@
 
 @layer base {
     html, body, #root {
-        @apply min-h-screen bg-blue-500 dark:bg-black;
+        @apply bg-blue-500 dark:bg-red-500;
     }
 }
